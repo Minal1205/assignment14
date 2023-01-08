@@ -1,5 +1,5 @@
 #include<stdio.h>
-//Write a program to find second largest element in an array.Take array values from the user.
+//Write a program to find second smallest element in an array.Take array values from the user.
 int main(){
     int a[10],min1=1000,min2=900;
     printf("Enter Elements\n");
